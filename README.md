@@ -1,2 +1,4 @@
 # LETSCODIT
-Tutorials
+Tutorials: 
+
+- Visualization with Bokeh
