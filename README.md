@@ -9,9 +9,11 @@
   - visualization with plotly 
   
 **Machine Learning**:
-- 
+- sklearn
+- xgboost
+- light gbm
 
-** Auto ml:**
+**Auto ml **:
 - optuna 
 - hyperopt
 - tpot (epistlab)
