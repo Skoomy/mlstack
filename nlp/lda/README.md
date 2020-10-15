@@ -15,7 +15,7 @@
 ### Definition 
 
 ### References 
-
+- https://github.com/chrisfalter/DataScience/blob/master/NLP/lda_with_sklearn.ipynb
 ### Library 
 - sklearn 
 - gensim 
