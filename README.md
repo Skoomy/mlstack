@@ -3,16 +3,16 @@
 
 ## Machine Learning Engineering toolkit: 
 
-**Visualization**:
-  - visualization with bokeh
-  - visualization with folium
-  - visualization with plotly 
-  - visualization with matplotlib
+**Visualization**
+  - Bokeh
+  - Folium
+  - plotly 
+  - matplotlib
 
-**Machine Learning**:
+**Machine Learning**
 - sklearn
 - xgboost
-- light gbm
+- lightgbm
 
 **Auto ml**:
 - optuna 
@@ -21,8 +21,9 @@
 
 
 **DeepLearning**
-- pytorch 
-- KERAS/ Tensorflow
+- pytorch
+- KERAS
+- Tensorflow
 
 **Explainability**
 - Shap 
