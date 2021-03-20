@@ -7,31 +7,33 @@
   - visualization with bokeh
   - visualization with folium
   - visualization with plotly 
-  
+  - visualization with matplotlib
+
 **Machine Learning**:
 - sklearn
 - xgboost
 - light gbm
 
-**Auto ml **:
+**Auto ml**:
 - optuna 
 - hyperopt
 - tpot (epistlab)
 
 
-**DL**
+**DeepLearning**
 - pytorch 
-- KERAS/ Tensoflor
+- KERAS/ Tensorflow
 
 **Explainability**
 - Shap 
 - LIME
--
+
 
 **Web app**
 - flask
 - dash 
 
 
-**Web Scrapping**:
-- In progress
+**Web Scrapping**
+- selenium
+- spider
