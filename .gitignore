@@ -1,4 +1,5 @@
-  
+ 
+**/draft 
 # workflow folder
 */.snakemake
 pipeline/.snakemake
